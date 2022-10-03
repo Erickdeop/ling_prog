@@ -3,7 +3,7 @@
  * Centro de Tecnologia - Escola Politecnica
  * Departamento de Eletronica e Computacao
  * EEL670 - Linguagens de Programacao - Turma 2022/2
- * Prof. Miguel Elias Mitre Campista
+ * Professor: Miguel Elias Mitre Campista
  * Autor: Erick de Oliveira Pessoa
  * Descricao: 
  *
@@ -16,7 +16,8 @@
 
 using namespace std;
 
-class Estadual {
+class Estadual 
+{
     public:
         Estadual(string, vector <int>);
 
@@ -47,7 +48,8 @@ class Estadual {
 
 };
 
-class Nacional {
+class Nacional 
+{
     public:
         Nacional (string, vector <Estadual>);
 

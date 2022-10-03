@@ -7,8 +7,6 @@
  * Autor: Erick de Oliveira Pessoa
  * Descricao: 
  *
- * Data:
- * Hora:
  */
 
 int main(void){
